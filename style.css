@@ -177,11 +177,10 @@ header{
 }
 #contact h2{
     font-size: 4rem;
-    padding: 0;
 }
 
 #contact p{
-    padding: 10px;
+    padding-bottom: 15px;
     color: #4AC0F2
 }
 
