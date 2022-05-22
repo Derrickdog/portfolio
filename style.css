@@ -63,7 +63,6 @@ header{
     border-radius: 10px;
 }
 
-
 /* bio */
 #bio{
     display: flex;
@@ -102,6 +101,7 @@ header{
 #projects{
     width: 100%;
     background-color: #333;
+    padding: 50px 0;
 }
 
 .projects-grid{
@@ -126,7 +126,10 @@ header{
 
 .project-title{
     text-align: center;
-    
 }
 
+.project:hover{
+    background-color: #4AC0F2;
+    transition: background-color 1s;
+}
 
